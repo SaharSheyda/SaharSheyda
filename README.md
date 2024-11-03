@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with getting hired & starting new projects
 - 💬 Ask me about HTML, CSS & JS + beginnery levels of React
 - 📫 How to reach me: saharsheydaei2000@gmail.com
-- ⚡ Fun fact:
+- ⚡ Fun facts :
 -   Obsessed with experiencing new stuff in every aspect of my life
 -   Have been teaching English for more than 5 years
 -   Currently enjoy learning React & in love with its new version
