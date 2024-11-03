@@ -5,8 +5,9 @@
 - 🤔 I’m looking for help with getting hired & starting new projects
 - 💬 Ask me about HTML, CSS & JS + beginnery levels of React
 - 📫 How to reach me: saharsheydaei2000@gmail.com
-- ⚡ Fun fact: - Obsessed with experiencing new stuff in every aspect of my life
-- Have been teaching English for more than 5 years
-- Currently enjoy learning React & in love with its new version
-- Madly in love with psychology and psychotherapy
-- Looking forward to connect with fellow developers who share a passion to work with a junior whose all in for getting all done as qualified as possible             
+- ⚡ Fun fact:
+-   Obsessed with experiencing new stuff in every aspect of my life
+-   Have been teaching English for more than 5 years
+-   Currently enjoy learning React & in love with its new version
+-   Madly in love with psychology and psychotherapy
+-   Looking forward to connect with fellow developers who share a passion to work with a junior whose all in for getting all done as qualified as possible             
