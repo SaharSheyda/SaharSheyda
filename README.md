@@ -1,6 +1,6 @@
 ## Hi there I'm Sahar Sheyda👋 A junior frontend developer
 - 🌱 I’m currently learning JavaScript, React & TypeScript
-- - 🔭 I’m currently working on "Testimonials Responsive Project"
+- - 🔭 I’m currently working on https://github.com/SaharSheyda/testimonials-responsive-project
 - 👯 I’m looking to collaborate on any Frontend project you'd like to be customized through HTML, CSS & JS + React
 - 🤔 I’m looking for help with getting hired & starting new projects
 - 💬 Ask me about HTML, CSS & JS + beginnery levels of React
